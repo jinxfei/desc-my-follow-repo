@@ -295,3 +295,5 @@ Real time web analytics using node.js and web sockets。
 [meteor](https://github.com/meteor/meteor)
 Meteor, an ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework.
 
+[elasticsearch](https://github.com/elasticsearch/elasticsearch)
+ElasticSearch is a distributed RESTful search engine built for the cloud.
