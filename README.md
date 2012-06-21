@@ -188,6 +188,10 @@ A small library for manipulating the favicon, in particular adding alert bubbles
 [hammer.js](https://github.com/EightMedia/hammer.js)
 A javascript library for multi-touch gestures.
 
+[rainbow](https://github.com/ccampbell/rainbow)
+Simple syntax highlighting library written in javascript
+
+
 WEB图形图像
 -----------
 
