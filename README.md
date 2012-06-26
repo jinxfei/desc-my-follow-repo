@@ -191,6 +191,15 @@ A javascript library for multi-touch gestures.
 [rainbow](https://github.com/ccampbell/rainbow)
 Simple syntax highlighting library written in javascript
 
+[ember.sj](https://github.com/emberjs/ember.js)
+Ember.js (formerly SproutCore 2.0) is a JavaScript framework that does all of the heavy lifting that you'd normally have to do by hand. There are tasks that are common to every web app; Ember.js does those things for you, so you can focus on building killer features and UI.
+These are the three features that make Ember.js a joy to use:
+Bindings
+Computed properties
+Auto-updating templates
+
+[jasmine](https://github.com/pivotal/jasmine)
+Jasmine is a Behavior Driven Development testing framework for JavaScript. It does not rely on browsers, DOM, or any JavaScript framework. Thus it's suited for websites, Node.js projects, or anywhere that JavaScript can run.
 
 WEB图形图像
 -----------
@@ -238,7 +247,6 @@ Handlebars.js is an extension to the Mustache templating language created by Chr
 Handlebars.js and Mustache are both logicless templating languages that keep the view and the code separated like we all know they should be.
 
 
-
 框架
 ----
 
@@ -258,6 +266,7 @@ In other words, it's a front-end toolkit for faster, more beautiful web developm
 
 [recommendify](https://github.com/paulasmuth/recommendify)
 Ruby/redis based recommendation engine (collaborative filtering).
+
 
 项目管理
 ----
