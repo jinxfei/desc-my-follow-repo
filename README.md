@@ -151,6 +151,8 @@ a jQuery plugin that makes it easy to share and demo code in-page, using GitHub 
 [jquery-backstretch](https://github.com/srobbin/jquery-backstretch)
 Backstretch is a simple jQuery plugin that allows you to add a dynamically-resized background image to any page.
 
+[galleria](https://github.com/aino/galleria)
+a javascript image gallery.
 
 WEB工具类库
 -------
