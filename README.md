@@ -81,6 +81,9 @@ A simple, lightweight jQuery plugin for reading, writing and deleting cookies
 转啊转，表示加载、处理中的组件。
 An animated CSS3 loading spinner with VML fallback for IE.
 
+[jwerty](https://github.com/keithamus/jwerty)
+jwerty is a JS lib which allows you to bind, fire and assert key combination strings against elements and events. It normalises the poor std api into something easy to use and clear.
+
 [keymaster](https://github.com/madrobby/keymaster)
 A simple micro-library for defining and dispatching keyboard shortcuts. It has no dependencies.
 
@@ -153,6 +156,9 @@ Backstretch is a simple jQuery plugin that allows you to add a dynamically-resiz
 
 [galleria](https://github.com/aino/galleria)
 a javascript image gallery.
+
+[FlexSlider](https://github.com/woothemes/FlexSlider)
+An awesome, fully responsive jQuery slider plugin
 
 WEB工具类库
 -------
