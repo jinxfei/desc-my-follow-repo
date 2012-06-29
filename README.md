@@ -68,6 +68,9 @@ jQuery Masked Input Plugin，可将input框变成各种带规定格式的输入�
 [jquery-File-Upload](https://github.com/blueimp/jQuery-File-Upload)
 File Upload widget with multiple file selection, drag&drop support, progress bars and preview images for jQuery.
 
+[iphone-style-checkbox](https://github.com/tdreyno/iphone-style-checkboxes)
+a iphone style checkbox in javascript, support ie and chrome and more explorer.
+
 [Chroma-Hash](https://github.com/mattt/Chroma-Hash)
 A sexy, secure live visualization of password field input
 
