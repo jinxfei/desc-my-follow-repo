@@ -212,6 +212,9 @@ Auto-updating templates
 [jasmine](https://github.com/pivotal/jasmine)
 Jasmine is a Behavior Driven Development testing framework for JavaScript. It does not rely on browsers, DOM, or any JavaScript framework. Thus it's suited for websites, Node.js projects, or anywhere that JavaScript can run.
 
+[sizzle](https://github.com/jquery/sizzle)
+A pure-JavaScript CSS selector engine designed to be easily dropped in to a host library.
+
 WEB图形图像
 -----------
 
