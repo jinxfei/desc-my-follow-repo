@@ -215,6 +215,9 @@ Jasmine is a Behavior Driven Development testing framework for JavaScript. It do
 [sizzle](https://github.com/jquery/sizzle)
 A pure-JavaScript CSS selector engine designed to be easily dropped in to a host library.
 
+[Holder](http://imsky.github.com/holder/)
+Holder renders image placeholders entirely on the client side. — Read more
+
 WEB图形图像
 -----------
 
