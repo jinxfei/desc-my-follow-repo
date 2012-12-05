@@ -105,6 +105,9 @@ Treesaver is JavaScript framework for creating magazine-style layouts using stan
 [impress.js](https://github.com/bartaz/impress.js)
 It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 
+[reveal.js](https://github.com/hakimel/reveal.js)
+A framework for easily creating beautiful presentations using HTML.
+
 [scrollorama](https://github.com/johnpolacek/scrollorama) and [superscrollorama](https://github.com/johnpolacek/superscrollorama)
 The jQuery plugin for doing cool scrolly stuff.
 
